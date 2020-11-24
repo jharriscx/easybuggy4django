@@ -1,0 +1,11 @@
+{
+    "cx.server": {
+        "url": "http://localhost/",
+        "alias": "Localhost",
+        "username": "jharris",
+        "password": "9kd1SeoR0moJWe1nH0zrXZoCB6WNRiUsmGzlx1s=",
+        "project_id": 10025,
+        "team_id": 3,
+        "project_name": "easybuggy4django"
+    }
+}
